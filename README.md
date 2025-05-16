@@ -1,5 +1,5 @@
 
-# 🧠 AWS Image Classification Project
+# 🧠 Secure Serverless Image Classification Using AWS Cloud Services
 
 A cloud-native image classification application built on AWS using services such as Amazon S3, Lambda, API Gateway, SageMaker, and DynamoDB. This project allows users to upload images through a static web interface, classify them using a pre-trained ML model (MobileNet V3), and display the predicted label.
 
